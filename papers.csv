@@ -1,0 +1,11 @@
+paper_id,title,authors,year,venue,status,doi,url,pdf_file
+P01,"RAIDX: A Retrieval-Augmented Generation and GRPO Reinforcement Learning Framework for Explainable Deepfake Detection","Li, He, Huang, Wen, Cheng, Lyu, Wu",2025,"ACM Multimedia 2025 (MM '25)",preprint,-,https://arxiv.org/abs/2508.04524,P01.pdf
+P02,"VRAG-DFD: Verifiable Retrieval-Augmentation for MLLM-based Deepfake Detection","Han, Wang, Zhao, Yao, Ding",2026,"arXiv (tabel di paper menyebut CVPR 2026, belum diverifikasi)",preprint,-,https://arxiv.org/abs/2604.13660,P02.pdf
+P03,"Beyond Text: Unveiling Privacy Vulnerabilities in Multi-modal Retrieval-Augmented Generation","Zhang, Zeng, Ren, Liu, Chang, Zheng, Tang",2025,"EMNLP 2025 (main)",peer-reviewed,10.18653/v1/2025.emnlp-main.1259,https://aclanthology.org/2025.emnlp-main.1259/,P03.pdf
+P04,"MM-PoisonRAG: Disrupting Multimodal RAG with Local and Global Knowledge Poisoning Attacks","Ha, Zhan, Kim, Bralios, Sanniboina, Peng, Chang, Kang, Ji",2025,arXiv,preprint,-,https://arxiv.org/abs/2502.17832,P04.pdf
+P05,"Do Multimodal RAG Systems Leak Data? A Comprehensive Evaluation of Membership Inference and Image Caption Retrieval Attacks","Al-Lawati, Wang",2026,arXiv,preprint,-,https://arxiv.org/abs/2601.17644,P05.pdf
+P06,"MrM: Black-Box Membership Inference Attacks Against Multimodal RAG Systems","Yang, Yin, Zheng, Bai, Wang, Sun, Li, Pei, Huang, Qi",2026,"AAAI-26 (Vol. 40, No. 40)",peer-reviewed,10.1609/aaai.v40i40.40726,https://ojs.aaai.org/index.php/AAAI/article/view/40726,P06.pdf
+P07,"A Survey on Multimodal Retrieval-Augmented Generation","Mei, Mo, Yang, Chen",2025,arXiv,preprint,-,https://arxiv.org/abs/2504.08748,P07.pdf
+P08,"Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation","Abootorabi, Zobeiri, Dehghani, Mohammadkhani, Mohammadi, Ghahroodi, Baghshah, Asgari",2025,arXiv,preprint,-,https://arxiv.org/abs/2502.08826,P08.pdf
+P09,"Retrieval-Augmented Generation for Large Language Models: A Survey","Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, Wang",2024,arXiv,preprint,-,https://arxiv.org/abs/2312.10997,P09.pdf
+P10,"AI Application in Anti-Money Laundering for Sustainable and Transparent Financial Systems (KYC dengan Graph RAG)","Nie, Liu, Wang",2025,arXiv,preprint,10.48550/arXiv.2512.06240,https://arxiv.org/abs/2512.06240,P10.pdf

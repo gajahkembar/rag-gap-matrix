@@ -1,0 +1,15 @@
+# data dan hasil besar / rahasia
+pdfs/*.pdf
+pdfs_keuangan/
+chroma_db/
+out/cache.json
+.env
+.venv/
+__pycache__/
+.DS_Store
+# arsip percobaan awal (domain keuangan, sudah tidak dipakai)
+/papers_keuangan.csv
+/gap_matrix_final.csv
+/gap_matrix_final.xlsx
+/manual_check_terisi.csv
+/gap_analysis_revisi.md
